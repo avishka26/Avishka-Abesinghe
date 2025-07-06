@@ -1,4 +1,4 @@
-# Power BI Sales Dashboard (In Progress)
+# Power BI Sales Dashboard (Completed)
 
 This project is a Power BI dashboard designed to analyze sales performance and KPIs. It includes interactive visualizations for:
 
